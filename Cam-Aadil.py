@@ -11,11 +11,16 @@ print("""
 ██║     ██╔══██║██║╚██╔╝██║╚════╝██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗╚════██║
 ╚██████╗██║  ██║██║ ╚═╝ ██║      ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║███████║
 \033[1;31m ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
-\033[1;31m                                                                        Afghanistan Aryanhackerby cod 
-\033[1;31m1) \033[1;37mUnited States                \033[1;31m31) \033[1;37mMexico                \033[1;31m61) \033[1;37mMoldova
-\033[1;31m2) \033[1;37mJapan                        \033[1;31m32) \033[1;37mFinland               \033[1;31m62) \033[1;37mNicaragua
-\033[1;31m3) \033[1;37mItaly                        \033[1;31m33) \033[1;37mChina                 \033[1;31m63) \033[1;37mMalta
-\033[1;31m4) \033[1;37mKorea                        \033[1;31m34) \033[1;37mChile                 \033[1;31m64) \033[1;37mTrinidad And Tobago
+\033[1;31m                                                                        Afghanistan Aadil coding 
+\033[1;31m                                                                        Afghanistan Aadil coding 
+\033[1;31m                                                                        Afghanistan Aadil coding 
+\033[1;31m                                                                        Afghanistan Aadil coding 
+\033[1;31m                                                                        Afghanistan Aadil coding 
+\033[1;31m                                                                        Afghanistan Aadil coding 
+\033[1;31m1) \033[1;37mUnited States             \033[1;31m31) \033[1;37mMexico                \033[1;31m61) \033[1;37mMoldova
+\033[1;31m2) \033[1;37mJapan                    \033[1;31m32) \033[1;37mFinland               \033[1;31m62) \033[1;37mNicaragua
+\033[1;31m3) \033[1;37mItaly                     \033[1;31m33) \033[1;37mChina                 \033[1;31m63) \033[1;37mMalta
+\033[1;31m4) \033[1;37mKorea                      \033[1;31m34) \033[1;37mChile                 \033[1;31m64) \033[1;37mTrinidad And Tobago
 \033[1;31m5) \033[1;37mFrance                       \033[1;31m35) \033[1;37mSouth Africa          \033[1;31m65) \033[1;37mSoudi Arabia
 \033[1;31m6) \033[1;37mGermany                      \033[1;31m36) \033[1;37mSlovakia              \033[1;31m66) \033[1;37mCroatia
 \033[1;31m7) \033[1;37mTaiwan                       \033[1;31m37) \033[1;37mHungary               \033[1;31m67) \033[1;37mCyprus
